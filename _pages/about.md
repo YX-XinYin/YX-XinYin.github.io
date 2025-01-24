@@ -32,18 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 2020 National College Students’ Innovation and Entrepreneurship Project. under Prof. Huashan Liu from DHU. 
+- 2020: National College Students’ Innovation and Entrepreneurship Project, under the supervision of Prof. Huashan Liu.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
-# 🎖 Honors and Awards
-- *2022.06* Excellent Graduate of Shanghai.
-- *2021.12* National Scholarship. 
-- *2020.12* National Scholarship. 
-- *2019.12* National Scholarship. 
 
 # 📖 Educations
 - *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University(ZJU).
@@ -51,4 +44,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2023.07 - 2023.12*: Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
+
+# 🎖 Honors and Awards
+- *2022.06* Excellent Graduate of Shanghai.
+- *2021.12* National Scholarship. 
+- *2020.12* National Scholarship. 
+- *2019.12* National Scholarship. 
+
 
