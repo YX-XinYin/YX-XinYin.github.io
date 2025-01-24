@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interests focus on developing machine learning systems and optimizing computational resources for ML inference and training. Specifically, I aim to leverage distributed network architectures and diverse hardware resources to enhance the computational efficiency and throughput of models.
+Hi, I'm Xin Yin, a third-year master's student at Zhejiang University. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interests focus on developing machine learning systems and optimizing computational resources for ML inference and training. Specifically, I aim to leverage distributed network architectures and diverse hardware resources to enhance the computational efficiency and throughput of models. 
 
 
 # 📝 Publications 
@@ -27,7 +26,7 @@ My research interests focus on developing machine learning systems and optimizin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1">
 
 **Internship** *2023.07 - 2023.12* Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of Dr. Enge Song and Dr. Ye Yang.
-- [vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers](https://dl.acm.org/doi/10.1145/3663408.3663422) **APNet' 2024**
+- [vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers](https://dl.acm.org/doi/10.1145/3663408.3663422) **APNet 2024**
 
 </div>
 </div>
