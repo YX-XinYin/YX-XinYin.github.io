@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Xin Yin, a third-year master's student at Zhejiang University. 
-My research interests focus on developing machine learning systems and optimizing computational resources for ML inference and training. Specifically, I aim to leverage distributed network architectures and diverse hardware resources to enhance the computational efficiency and throughput of models. 
+
+My research interests focus on network systems. Specifically, I leverage virtualization technologies to optimize virtual switches in data centers. In addition, I have research experience in the implementation of deep and reinforcement learning algorithms as well as network systems. Therefore, I plan to integrate these areas of knowledge to develop machine learning systems and optimize distributed network architectures for both machine learning inference and training.
 
 
 # 📖 Publications 
