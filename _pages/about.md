@@ -38,8 +38,8 @@ My primary research interest is in network systems. Specifically, I leverage vir
 
 
 # 🎓 Educations
-- *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University (ZJU).
-- *2018.09 – 2022.06*: B.S. in Automation, Donghua University (DHU).
+- *2022.09 – 2025.03*: M.S. in the college of control science and engineering, Zhejiang University (ZJU).
+- *2018.09 – 2022.06*: B.S. in the college of information science and technology, Donghua University (DHU).
 
 # 🎖 Honors and Awards
 - *2022.06* Excellent Graduate of Shanghai.
