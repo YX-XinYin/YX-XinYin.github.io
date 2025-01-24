@@ -24,9 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">
-</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1">
 
 **Internship** *2023.07 - 2023.12* Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of Dr. Enge Song and Dr. Ye Yang.
 - [vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers](https://dl.acm.org/doi/10.1145/3663408.3663422) **APNet' 2024**
