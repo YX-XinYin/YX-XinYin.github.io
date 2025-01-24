@@ -47,6 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.12* National Scholarship.
 
 # 💻 International Conference Experience
-- *2023.07 - 2023.12*: Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
+- *Participation* Attended SIGCOMM 2024 and APNET 2024 in Sydney.
+- *Volunteer*: Volunteered at SenSys 2024 and AIoT Sys 2024 in Hangzhou.
 
 
