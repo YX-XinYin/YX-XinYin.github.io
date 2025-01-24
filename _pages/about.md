@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Internships** *2023.07 - 2023.12* Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
+**Internship** *2023.07 - 2023.12* Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 **Project** *2020.09 - 2021.09* National College Students’ Innovation and Entrepreneurship Project, under the supervision of Prof. Huashan Liu.
