@@ -23,13 +23,12 @@ My research interests focus on developing machine learning systems and optimizin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1"></div></div>
 
 **Internship** *2023.07 - 2023.12* Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of Dr. Enge Song and Dr. Ye Yang.
+
 [APNet' 2024][vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers](https://dl.acm.org/doi/10.1145/3663408.3663422) **APNet 2024**
 
-</div>
-</div>
 
 **Project** *2020.09 - 2021.09* National College Students’ Innovation and Entrepreneurship Project, under the supervision of Prof. Huashan Liu.
 
