@@ -21,7 +21,7 @@ Hi, I'm Xin Yin, a third-year master's student at Zhejiang University. Vivamus o
 My research interests focus on developing machine learning systems and optimizing computational resources for ML inference and training. Specifically, I aim to leverage distributed network architectures and diverse hardware resources to enhance the computational efficiency and throughput of models. 
 
 
-# 📝 Publications 
+# 📖 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1"></div></div> -->
 
 **Internship** *2023.07 - 2023.12* Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of [Dr. Enge Song](https://ng-95.github.io/) and [Dr. Ye Yang](https://yangye-huaizhou.github.io/).
@@ -34,7 +34,7 @@ My research interests focus on developing machine learning systems and optimizin
 [Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/9756549)[IEEE/ASME Transactions on Mechatronics] 
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University (ZJU).
 - *2018.09 – 2022.06*: B.S. in Automation, Donghua University (DHU).
 
