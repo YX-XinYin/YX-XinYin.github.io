@@ -64,7 +64,7 @@ Feel free to reach out to me via my email at example@example.com. -->
 - *2019.12* National Scholarship. 
 
 # 📖 Educations
-- *2022.09 – 2025.03 (Present)*: M.S. in Control Science, Zhejiang University
+- *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University
 - *2018.09 – 2022.06*: B.S. in Automation, Donghua University (Excellent Graduate of Shanghai).
 
 # 💻 Internships
