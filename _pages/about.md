@@ -27,7 +27,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/9756549)
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- [Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/9756549)
 
 Fengkang Ying, Huashan Liu, Rongxin Jiang, **Xin Yin**
 
@@ -36,7 +38,7 @@ Fengkang Ying, Huashan Liu, Rongxin Jiang, **Xin Yin**
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 📖 Educations
 - *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University(ZJU).
