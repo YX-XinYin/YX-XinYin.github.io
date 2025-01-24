@@ -29,12 +29,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 2020: National College Students’ Innovation and Entrepreneurship Project, under the supervision of Prof. Huashan Liu.
+
 - [Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/9756549)
 
 Fengkang Ying, Huashan Liu, Rongxin Jiang, **Xin Yin**
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 2020: National College Students’ Innovation and Entrepreneurship Project, under the supervision of Prof. Huashan Liu.
 </div>
 </div>
 
@@ -44,13 +44,13 @@ Fengkang Ying, Huashan Liu, Rongxin Jiang, **Xin Yin**
 - *2022.09 – 2025.03*: M.S. in Control Science, Zhejiang University(ZJU).
 - *2018.09 – 2022.06*: B.S. in Automation, Donghua University (DHU).
 
-# 💻 Internships
-- *2023.07 - 2023.12*: Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
-
 # 🎖 Honors and Awards
 - *2022.06* Excellent Graduate of Shanghai.
 - *2021.12* National Scholarship. 
 - *2020.12* National Scholarship. 
-- *2019.12* National Scholarship. 
+- *2019.12* National Scholarship.
+
+# 💻 Internships
+- *2023.07 - 2023.12*: Academic internship, Alibaba Innovative Research (Air), Alibaba Cloud.
 
 
