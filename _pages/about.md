@@ -21,6 +21,9 @@ Hi, I'm Xin Yin, a third-year master's student at Zhejiang University, under the
 
 My research interests focus on network systems. Specifically, I leverage virtualization technologies to optimize virtual switches in data centers. In addition, I have research experience in the implementation of deep and reinforcement learning algorithms as well as network systems. Therefore, I plan to integrate these areas of knowledge to develop machine learning systems and optimize distributed network architectures for both machine learning inference and training.
 
+<span style="color:red">By the way, I am currently applying for a PhD program. If you have any valuable job recommendations, I would greatly appreciate it.</span>
+
+
 # 📖 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1"></div></div> -->
 
