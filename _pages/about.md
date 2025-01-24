@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.12* National Scholarship.
 
 # 💻 International Conference Experience
-- *Participation* Attended SIGCOMM 2024 and APNET 2024 in Sydney.
-- *Volunteer*: Volunteered at SenSys 2024 and AIoT Sys 2024 in Hangzhou.
+- Attended SIGCOMM 2024 and APNET 2024 in Sydney.
+- Volunteered at SenSys 2024 and AIoT Sys 2024 in Hangzhou.
 
 
