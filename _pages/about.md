@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2022.6* Excellent Graduate of Shanghai.
+- *2022.06* Excellent Graduate of Shanghai.
 - *2021.12* National Scholarship. 
 - *2020.12* National Scholarship. 
 - *2019.12* National Scholarship. 
