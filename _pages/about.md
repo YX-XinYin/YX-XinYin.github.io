@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xin Yin, a third-year master's student at Zhejiang University, under the joint supervision of [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe) and [Prof. Yuanchao Shu](https://yshu.org/).
+Hi, I'm Xin Yin (尹欣), a third-year master's student at Zhejiang University, under the joint supervision of [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe) and [Prof. Yuanchao Shu](https://yshu.org/).
 
 My primary research interest is in network systems. Specifically, I leverage virtualization technologies to enhance the performance of virtual switches in data centers. Additionally, I have research experience in developing and applying deep learning and reinforcement learning algorithms. Therefore, I plan to integrate these areas of expertise to advance machine learning systems and improve the efficiency of distributed network architectures for both model inference and training.
 
