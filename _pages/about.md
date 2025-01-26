@@ -24,7 +24,7 @@ My primary research interest is in network systems. Specifically, I leverage vir
 <span style="color:red">I am currently applying for a PhD program. Any position recommendations would be sincerely appreciated.</span>
 
 
-# 📖 Publications 
+# 💻 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1"></div></div> -->
 
 **Internship** Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of [Dr. Enge Song](https://ng-95.github.io/) and [Dr. Ye Yang](https://yangye-huaizhou.github.io/).
@@ -47,7 +47,7 @@ My primary research interest is in network systems. Specifically, I leverage vir
 - *2020.12* National Scholarship. 
 - *2019.12* National Scholarship.
 
-# 💻 Conference Experience
+# 🌻 Conference Experience
 - Attended SIGCOMM 2024 and APNet 2024 in Sydney.
 - Volunteered at SenSys 2024 and AIoT Sys 2024 in Hangzhou.
 
