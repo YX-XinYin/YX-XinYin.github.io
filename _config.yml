@@ -11,7 +11,7 @@ description              : "Feel free to contact me 🌟"
 url                      : "https://YX-XinYin.github.io"
 baseurl                  : "/YX-XinYin"
 repository               : "YX-XinYin/YX-XinYin"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
