@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Xin Yin"
 description              : "Feel free to contact me 🌟"
-repository               : "XinYin.github.io"
+url                      : "https://YX-XinYin.github.io"
+baseurl                  : "/YX-XinYin"
+repository               : "YX-XinYin/YX-XinYin"
 google_scholar_stats_use_cdn : true
 
 # google analytics
