@@ -9,8 +9,8 @@
 title                    : "Xin Yin"
 description              : "Feel free to contact me 🌟"
 url                      : "https://YX-XinYin.github.io"
-baseurl                  : "/YX-XinYin"
-repository               : "YX-XinYin/YX-XinYin"
+baseurl                  : ""
+repository               : "YX-XinYin/YX-XinYin.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
