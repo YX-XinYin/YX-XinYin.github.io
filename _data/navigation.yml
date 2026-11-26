@@ -1,2 +1,5 @@
-# Single-page site: keep the bar quiet.
-main: []
+main:
+  - title: "SIGCOMM"
+    url: /notes/sigcomm-ai-network/
+  - title: "NSDI"
+    url: /notes/nsdi-ai-network/

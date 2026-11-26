@@ -56,6 +56,26 @@ redirect_from:
   </li>
 </ul>
 
+<h2 class="section-title" id="surveys">Reading notes <span>Surveys</span></h2>
+
+<article class="paper-card">
+  <div class="paper-meta">
+    <span class="badge-pill venue">SIGCOMM</span>
+    <span class="badge-pill kind">2025–2026 · 74 papers</span>
+  </div>
+  <h3><a href="{{ '/notes/sigcomm-ai-network/' | relative_url }}">AI for networks, and networks for LLMs</a></h3>
+  <p>Filter by year, domain, and technique. Notes follow the paper abstracts.</p>
+</article>
+
+<article class="paper-card">
+  <div class="paper-meta">
+    <span class="badge-pill venue">NSDI</span>
+    <span class="badge-pill kind">2026 spring / fall · 33 papers</span>
+  </div>
+  <h3><a href="{{ '/notes/nsdi-ai-network/' | relative_url }}">The same cut, for the two NSDI cycles</a></h3>
+  <p>Main-conference papers whose abstracts land on those two lines. Filter by cycle and domain.</p>
+</article>
+
 <h2 class="section-title" id="notes">Also</h2>
 <ul class="timeline">
   <li>
