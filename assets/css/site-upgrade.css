@@ -1,0 +1,333 @@
+/* Visual upgrade on top of academicpages.
+   Inspired by al-folio (cards, badges) and modern academic portfolios,
+   without replacing the Jekyll theme. */
+
+:root {
+  --ink: #102033;
+  --muted: #5b6b7c;
+  --accent: #0f766e;
+  --accent-soft: #ccfbf1;
+  --accent-2: #1d4ed8;
+  --card: #ffffff;
+  --line: rgba(16, 32, 51, 0.08);
+  --shadow: 0 18px 50px rgba(16, 32, 51, 0.08);
+}
+
+body {
+  color: var(--ink);
+  font-family: "Source Sans 3", "Trebuchet MS", Helvetica, sans-serif;
+  background:
+    radial-gradient(900px 420px at 8% -8%, rgba(15, 118, 110, 0.16), transparent 55%),
+    radial-gradient(720px 320px at 100% 0%, rgba(29, 78, 216, 0.12), transparent 50%),
+    #f3f6fb;
+}
+
+h1, h2, h3, h4, h5, h6,
+.author__name,
+.masthead__menu-item--lg a {
+  font-family: "Fraunces", Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+.masthead {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+
+.masthead__menu-home-item {
+  display: list-item !important;
+}
+
+.masthead__menu-item a,
+.masthead__menu-item--lg a {
+  color: var(--ink) !important;
+  font-weight: 600;
+}
+
+.masthead__menu-item a:hover {
+  color: var(--accent) !important;
+}
+
+.site-brand {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.site-brand:before {
+  display: none !important;
+}
+
+.site-brand img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  padding: 0;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+.greedy-nav {
+  background: transparent !important;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+.sidebar {
+  display: none !important;
+}
+
+#main .page {
+  width: 100% !important;
+  float: none !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  max-width: 44rem;
+}
+
+#main {
+  margin-top: 1.2rem;
+}
+
+.page__content h1 {
+  border-bottom: 0;
+}
+
+.page__content span#about-me {
+  margin-top: 0;
+}
+
+.page__content span#about-me:before {
+  height: 0;
+  margin-top: 0;
+}
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 1.25rem 1.4rem 1.2rem;
+  margin: 0 0 1.4rem;
+  border-radius: 22px;
+  background:
+    linear-gradient(135deg, rgba(15, 118, 110, 0.12), rgba(29, 78, 216, 0.08)),
+    var(--card);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  right: -40px;
+  top: -50px;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(15, 118, 110, 0.22), transparent 70%);
+  pointer-events: none;
+}
+
+.hero-kicker {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 0 0 0.85rem;
+  font-size: clamp(1.7rem, 3.4vw, 2.4rem);
+  line-height: 1.1;
+  color: var(--ink);
+}
+
+.hero .name-zh {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.2rem 0 0;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.72rem;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 0.86rem;
+  font-weight: 600;
+}
+
+.section-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 1.6rem 0 0.7rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.28rem;
+}
+
+.section-title span {
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.paper-card {
+  display: block;
+  margin: 0 0 1rem;
+  padding: 1.15rem 1.2rem 1.1rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(16, 32, 51, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.paper-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(15, 118, 110, 0.35);
+  box-shadow: 0 16px 40px rgba(15, 118, 110, 0.12);
+}
+
+.paper-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 0.55rem;
+}
+
+.badge-pill {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.badge-pill.venue {
+  background: #1d4ed8;
+  color: #fff;
+}
+
+.badge-pill.kind {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.paper-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.12rem;
+  line-height: 1.35;
+}
+
+.paper-card h3 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.paper-card h3 a:hover {
+  color: var(--accent);
+}
+
+.paper-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.timeline {
+  margin: 0;
+  padding: 0.2rem 0 0.4rem 0.2rem;
+  list-style: none;
+  border-left: 2px solid rgba(15, 118, 110, 0.25);
+}
+
+.timeline li {
+  position: relative;
+  margin: 0 0 0.75rem 1.1rem;
+  padding: 0.75rem 0.95rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+
+.timeline p {
+  margin: 0.2rem 0 0;
+  color: var(--muted);
+}
+
+.timeline li::before {
+  content: "";
+  position: absolute;
+  left: -1.45rem;
+  top: 1.15rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft);
+}
+
+.timeline .when {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.is-in {
+  animation: rise 0.55s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .is-in {
+    animation: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero,
+  .sidebar {
+    border-radius: 18px;
+  }
+
+  .hero {
+    padding: 1.1rem 1rem;
+  }
+
+}

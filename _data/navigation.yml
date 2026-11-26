@@ -1,6 +1,2 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "#about-me"
-
-  
+# Single-page site: keep the bar quiet.
+main: []

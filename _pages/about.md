@@ -2,46 +2,72 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
+<div class="hero">
+  <div class="hero-kicker">Zhejiang University</div>
+  <h1>Xin Yin <span class="name-zh">尹欣</span></h1>
+  <div class="chip-row">
+    <span class="chip">Network systems</span>
+    <span class="chip">vSwitch / NFV</span>
+    <span class="chip">Data centers</span>
+    <span class="chip">MLSys</span>
+    <span class="chip">Reinforcement learning</span>
+  </div>
+</div>
 
-Hi, I'm Xin Yin (尹欣), a third-year master's student at Zhejiang University, under the joint supervision of [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe) and [Prof. Yuanchao Shu](https://yshu.org/).
+<h2 class="section-title" id="publications">Publications <span>Papers</span></h2>
 
-My primary research interest is in network systems. Specifically, I leverage virtualization technologies to enhance the performance of virtual switches in data centers. Additionally, I have research experience in developing and applying deep learning and reinforcement learning algorithms. Therefore, I plan to integrate these areas of expertise to advance machine learning systems and improve the efficiency of distributed network architectures for both model inference and training.
+<article class="paper-card">
+  <div class="paper-meta">
+    <span class="badge-pill venue">APNet 2024</span>
+    <span class="badge-pill kind">Internship · Alibaba Cloud</span>
+  </div>
+  <h3><a href="https://dl.acm.org/doi/10.1145/3663408.3663422">vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers</a></h3>
+  <p>Alibaba Innovative Research (AIR) academic internship, guided by <a href="https://ng-95.github.io/">Dr. Enge Song</a> and <a href="https://yangye-huaizhou.github.io/">Dr. Ye Yang</a>.</p>
+</article>
 
-<span style="color:red"></span>
+<article class="paper-card">
+  <div class="paper-meta">
+    <span class="badge-pill venue">TMECH</span>
+    <span class="badge-pill kind">National innovation project</span>
+  </div>
+  <h3><a href="https://ieeexplore.ieee.org/document/9756549">Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient</a></h3>
+  <p>IEEE/ASME Transactions on Mechatronics. Supervised by <a href="https://scholar.google.com/citations?user=ts_P7MMAAAAJ&amp;hl=zh-CN">Prof. Huashan Liu</a>.</p>
+</article>
 
+<h2 class="section-title" id="educations">Education</h2>
+<ul class="timeline">
+  <li>
+    <span class="when">2022.09 – 2025.03</span>
+    <strong>M.S. in Control Science and Engineering</strong>
+    <p>Zhejiang University (ZJU)</p>
+  </li>
+  <li>
+    <span class="when">2018.09 – 2022.06</span>
+    <strong>B.S. in Information Science and Technology</strong>
+    <p>Donghua University (DHU)</p>
+  </li>
+</ul>
 
-# 💻 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div><div class='paper-box-text' markdown="1"></div></div> -->
-
-**Internship** Alibaba Innovative Research (AIR) academic internship at Alibaba Cloud, under the guidance of [Dr. Enge Song](https://ng-95.github.io/) and [Dr. Ye Yang](https://yangye-huaizhou.github.io/).
-
-[vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers](https://dl.acm.org/doi/10.1145/3663408.3663422)[APNet' 2024]
-
-
-**Project** National College Students’ Innovation and Entrepreneurship Project, under the supervision of [Prof. Huashan Liu](https://scholar.google.com/citations?user=ts_P7MMAAAAJ&hl=zh-CN).
-
-[Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/9756549)[IEEE/ASME Transactions on Mechatronics] 
-
-
-# 🎓 Educations
-- *2022.09 – 2025.03*: M.S. in the college of control science and engineering, Zhejiang University (ZJU).
-- *2018.09 – 2022.06*: B.S. in the college of information science and technology, Donghua University (DHU).
-
-# 🎖 Honors and Awards
-- *2022.06* Excellent Graduate of Shanghai.
-- *2021.12* National Scholarship. 
-- *2020.12* National Scholarship. 
-- *2019.12* National Scholarship.
-
-# 🌻 Conference Experience
-- Attended SIGCOMM 2024 and APNet 2024 in Sydney.
-- Volunteered at SenSys 2024 and AIoT Sys 2024 in Hangzhou.
-
-
+<h2 class="section-title" id="notes">Also</h2>
+<ul class="timeline">
+  <li>
+    <span class="when">2024</span>
+    <strong>SIGCOMM and APNet, Sydney</strong>
+    <p>Attendee. Volunteered at SenSys and AIoT Sys in Hangzhou the same year.</p>
+  </li>
+  <li>
+    <span class="when">2022.06</span>
+    <strong>Excellent Graduate of Shanghai</strong>
+  </li>
+  <li>
+    <span class="when">2019 – 2021</span>
+    <strong>National Scholarship × 3</strong>
+  </li>
+</ul>

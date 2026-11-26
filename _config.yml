@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xin Yin"
-description              : "Feel free to contact me 🌟"
+description              : "Network systems · vSwitch · MLSys"
 url                      : "https://YX-XinYin.github.io"
 baseurl                  : ""
 repository               : "YX-XinYin/YX-XinYin.github.io"
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xin Yin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
+  bio              : "Zhejiang University · Network Systems"
   location         : "China"
   employer         :
   pubmed           : 
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "YX-XinYin"
   google_plus      :
   keybase          :
   instagram        :
