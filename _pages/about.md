@@ -10,7 +10,6 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 <div class="hero">
-  <div class="hero-kicker">Zhejiang University</div>
   <h1>Xin Yin <span class="name-zh">尹欣</span></h1>
   <div class="chip-row">
     <span class="chip">Network systems</span>
