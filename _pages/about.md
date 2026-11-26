@@ -38,7 +38,7 @@ redirect_from:
     <span class="badge-pill kind">National innovation project</span>
   </div>
   <h3><a href="https://ieeexplore.ieee.org/document/9756549">Trajectory Generation for Multi-process Robotic Tasks Based on Nested Dual-Memory Deep Deterministic Policy Gradient</a></h3>
-  <p>National innovation project, guided by <a href="https://scholar.google.com/citations?user=4fYGbd8AAAAJ&hl=zh-CN">Fengkang Ying</a></p>
+  <p>Undergraduate innovation project, advised by <a href="https://scholar.google.com/citations?user=4fYGbd8AAAAJ&amp;hl=zh-CN">Fengkang Ying</a>.</p>
 </article>
 
 <h2 class="section-title" id="educations">Education</h2>
@@ -47,7 +47,7 @@ redirect_from:
     <span class="when">2022.09 – 2025.03</span>
     <strong>M.S. in Control Science and Engineering</strong>
     <p>Zhejiang University (ZJU)</p>
-    <p>Supervisor: <a href="https://yshu.org/">Prof. Yuanchao Shu</a> and <a href="https://scholar.google.com/citations?user=5GOcb4gAAAAJ&amp;hl=en">Prof. Shibo He</a></p>
+    <p>Supervisors: <a href="https://yshu.org/">Prof. Yuanchao Shu</a> and <a href="https://scholar.google.com/citations?user=5GOcb4gAAAAJ&amp;hl=en">Prof. Shibo He</a></p>
   </li>
   <li>
     <span class="when">2018.09 – 2022.06</span>
@@ -64,12 +64,10 @@ redirect_from:
     <strong>SIGCOMM and APNet, Sydney</strong>
     <p>Attendee. Volunteered at SenSys and AIoT Sys in Hangzhou the same year.</p>
   </li>
+
   <li>
-    <span class="when">2022.06</span>
-    <strong>Excellent Graduate of Shanghai</strong>
-  </li>
-  <li>
-    <span class="when">2019 – 2021</span>
+    <span class="when">2019 – 2022</span>
     <strong>National Scholarship × 3</strong>
+    <p>Excellent Graduate of Shanghai, 2022</p>
   </li>
 </ul>
