@@ -120,23 +120,28 @@
         return;
       }
 
-      list.innerHTML = shown.map(function (paper) {
+      var whenLabel = mode === "season" ? "截稿季" : "年份";
+      var rows = shown.map(function (paper) {
         var when = mode === "season" ? (paper.meet.indexOf("春") !== -1 ? "春" : "秋") : paper.year;
         return (
-          '<article class="paper-card survey-card">' +
-            '<div class="paper-meta">' +
-              '<span class="badge-pill venue">' + esc(when) + '</span>' +
-              '<span class="badge-pill kind">' + esc(paper.track) + '</span>' +
-              '<span class="badge-pill">' + esc(paper.domain) + '</span>' +
-              '<span class="badge-pill">' + esc(paper.sub) + '</span>' +
-            '</div>' +
-            '<h3>' + esc(paper.name) + '</h3>' +
-            '<p>' + esc(paper.bg) + '</p>' +
-            '<p class="survey-idea">' + esc(paper.idea) + '</p>' +
-            '<p class="survey-links"><a href="' + esc(paper.page) + '">页面</a><a href="' + esc(paper.pdf) + '">PDF</a></p>' +
-          '</article>'
+          "<tr>" +
+            '<td class="col-when">' + esc(when) + "</td>" +
+            '<td class="col-track">' + esc(paper.track) + "</td>" +
+            '<td class="col-domain">' + esc(paper.domain) + "</td>" +
+            '<td class="col-sub">' + esc(paper.sub) + "</td>" +
+            '<td class="col-name">' + esc(paper.name) + "</td>" +
+            '<td class="col-source"><p class="survey-links"><a href="' + esc(paper.page) + '">页面</a><a href="' + esc(paper.pdf) + '">PDF</a></p></td>' +
+            "<td>" + esc(paper.bg) + "</td>" +
+            "<td>" + esc(paper.idea) + "</td>" +
+          "</tr>"
         );
       }).join("");
+
+      list.innerHTML =
+        '<div class="survey-table-wrap"><table class="survey-table">' +
+          "<thead><tr>" +
+            "<th>" + whenLabel + "</th><th>方向</th><th>网络域</th><th>子类</th><th>论文</th><th>来源</th><th>应用背景</th><th>创新技术</th>" +
+          "</tr></thead><tbody>" + rows + "</tbody></table></div>";
     }
 
     [track, slice, domain, sub].forEach(function (node) { node.addEventListener("change", render); });
