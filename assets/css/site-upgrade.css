@@ -35,6 +35,12 @@ h1, h2, h3, h4, h5, h6,
   border-bottom: 1px solid var(--line);
 }
 
+.masthead__inner-wrap {
+  max-width: 96rem;
+  margin: 0 auto;
+  padding: 0.35rem 1.2rem;
+}
+
 .masthead__menu-home-item {
   display: list-item !important;
 }
@@ -81,11 +87,26 @@ h1, h2, h3, h4, h5, h6,
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  gap: 0.2rem 1.35rem;
   width: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 #site-nav .visible-links li {
   display: flex;
+  align-items: center;
+}
+
+#site-nav .visible-links a {
+  margin: 0;
+  padding: 0.45rem 0;
+  text-decoration: none;
+}
+
+#site-nav .visible-links a:before {
+  display: none;
 }
 
 #site-nav .hidden-links,
